@@ -8,7 +8,7 @@
 
 body{
     font-family: Montserrat;
-    color: #333;
+    color: #000000;
 }
 
 a{text-decoration: none;color:inherit}
@@ -46,7 +46,7 @@ main{
 }
 
 .change_language button{
-    border:1px solid #333;
+    border:1px solid #ff0000;
     padding: 5px 10px;
     background: transparent;
 }
@@ -63,7 +63,7 @@ ul.pokedex {
 
 ul.pokedex > li{
     text-align: center;
-    border:1px solid #ddd;
+    border:1px solid #fa00e5;
     padding: 10px;
     border-radius: 10px;
     transition: 0.4s;
@@ -72,7 +72,7 @@ ul.pokedex > li{
 ul.pokedex li img{
     width: 150px;
     height: 150px;
-    border:1px solid #ddd;
+    border:1px solid #f80202;
     object-fit: cover;
     margin: 0 auto;
     margin-bottom: 10px;
@@ -88,8 +88,8 @@ ul.pokeTypes{
 }
 
 ul.pokeTypes li {
-    background: #333;
-    color:#fff;
+    background: #2e5cf3;
+    color:#d7fd00;
     border-radius: 20px;
     padding: 5px 7px;
 }
