@@ -1,6 +1,6 @@
 import './main.css'
-import Header from './components/Header'
-import Pokedex from './components/Pokedex'
+import Header from './elements/Header'
+import Pokedex from './elements/Pokedex'
 
 function App() {
 
